@@ -1,4 +1,4 @@
-## Furniture Store
+## NFT
 
 This is my second template for my resume. This project is multiple page and responsive.
 
@@ -8,7 +8,7 @@ This is my second template for my resume. This project is multiple page and resp
 
 ## Demo Link
 
-https://mohammadfaramarzi1.github.io/furniture-store/
+https://mohammadfaramarzi1.github.io/nft/
 
 <h2>📞 &nbsp; Connct Me </h2>
 
