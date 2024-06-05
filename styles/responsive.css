@@ -1,0 +1,336 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+@media screen and (max-width: 1200px) {
+    
+    .header__content-right::before{
+        left: 48rem;
+    }
+    .gallery__images-left{
+        width: 17rem;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .user-access{
+        display: none;
+    }
+    .header__content-title,
+    .header__content-span{
+        font-size: 4rem;
+    }
+    .header__content-right::before,
+    .header__content-right::after{
+        display: none;
+    }
+    .header__content-right{
+        padding-top: 0;
+    }
+    .header__content-caption,
+    .header__content-detail,
+    .header__content-category,
+    .header__content-link,
+    .history__caption,
+    .history__link,
+    .history__span,
+    .trade__caption,
+    .gallery__title,
+    .gallery__span,
+    .gallery__link,
+    .seller__name,
+    .seller__span,
+    .blog__link,
+    .blog__title{
+        font-size: 1.4rem;
+    }
+    .header__content-count{
+        font-size: 2.5rem;
+    }
+    .header__content-left{
+        max-width: 35rem;
+    }
+    .header__content-right{
+        max-width: 32rem;
+    }
+    .history__content{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .history__images:first-child{
+        margin-bottom: 2rem;
+    }
+    .history__title{
+        font-size: 2.5rem;
+    }
+    .trade__title{
+        font-size: 1.5rem;
+    }
+    .history__caption{
+        margin: 0 3rem;
+    }
+    .section__title{
+        font-size: 3rem;
+    }
+    .trade__wrapper{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .trade__content:nth-child(2){
+        transform: translateY(0);
+        -webkit-transform: translateY(0);
+        -moz-transform: translateY(0);
+        -ms-transform: translateY(0);
+        -o-transform: translateY(0);
+    }
+    .gallery__images-left{
+        width: 21rem;
+    }
+    .footer__title{
+        font-size: 1.7rem;
+    }
+    .footer__menu-link,
+    .newsletter__caption{
+        font-size: 1.4rem;
+    }
+    .login__label,
+    .signup__label,
+    .signup__link,
+    .login__link{
+        font-size: 1.4rem;
+    }
+    .login__caption,
+    .signup__caption{
+        font-size: 1.5rem;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .menu__link{
+        font-size: 1.4rem;
+    }
+    .header__content-title,
+    .header__content-span{
+        font-size: 3rem;
+    }
+    .header__content-caption,
+    .header__content-category,
+    .header__content-detail,
+    .header__content-link,
+    .history__caption,
+    .history__link,
+    .history__span,
+    .trade__caption,
+    .gallery__title,
+    .gallery__span,
+    .gallery__link,
+    .seller__name,
+    .seller__span,
+    .blog__link,
+    .blog__title{
+        font-size: 1.3rem;
+    }
+    .header__content-count{
+        font-size: 2rem;
+    }
+    .header__content-left{
+        max-width: 27rem;
+    }
+    .header__content-right{
+        max-width: 23rem;
+    }
+    .history__link{
+        display: none;
+    }
+    .history__caption{
+        margin: 0 2rem;
+    }
+    .history__title{
+        font-size: 2rem;
+    }
+    .trade__title{
+        font-size: 1.3rem;
+    }
+    .trade__wrapper{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .section__title{
+        font-size: 2.5rem;
+    }
+    .seller__content{
+        padding: 1rem;
+    }
+    .seller__content-right{
+        margin-left: 2rem;
+    }
+    .blog__date-time,
+    .blog__description,
+    .blog__admin-title{
+        font-size: 1.2rem;
+    }
+    .footer__title{
+        font-size: 1.3rem;
+    }
+    .footer__menu-link,
+    .newsletter__caption{
+        font-size: 1.2rem;
+    }
+    .footer__wrapper{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .login__label,
+    .signup__label,
+    .signup__link,
+    .login__link{
+        font-size: 1.3rem;
+    }
+    .login__caption,
+    .signup__caption{
+        font-size: 1.4rem;
+    }
+    .login__right,
+    .signup__right{
+        display: none;
+    }
+    .login__left,
+    .signup__left{
+        -ms-flex-preferred-size: 100%;
+            flex-basis: 100%;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .menu__link{
+        font-size: 1.3rem;
+    }
+    .menu{
+        display: none;
+    }
+    .nav__btn{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+    .header__content-right{
+        display: none;
+    }
+    .header__content{
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .header__content-title{
+        font-size: 2.5rem;
+    }
+    .header__content-caption,
+    .header__content-category,
+    .header__content-detail,
+    .header__content-link,
+    .history__caption,
+    .history__link,
+    .history__span,
+    .trade__caption,
+    .gallery__title,
+    .gallery__span,
+    .gallery__link,
+    .seller__name,
+    .seller__span,
+    .blog__link,
+    .blog__title{
+        font-size: 1.2rem;
+    }
+    .header__content-count{
+        font-size: 1.8rem;
+    }
+    .history__content{
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .history__images{
+        margin-bottom: 2rem;
+    }
+    .history__title{
+        font-size: 1.5rem;
+    }
+    .history__caption{
+        margin: 0 1rem;
+    }
+    .history__wrapper{
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .trade__title{
+        font-size: 1.2rem;
+    }
+    .section__title{
+        font-size: 2rem;
+    }
+    .gallery__content,
+    .blog__content{
+        max-width: 25rem;
+        margin: auto;
+    }
+    .seller__content{
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .blog__date-time,
+    .blog__description,
+    .blog__admin-title{
+        font-size: 1.1rem;
+    }
+    .footer__title{
+        font-size: 1.2rem;
+    }
+    .footer__menu-link,
+    .newsletter__caption{
+        font-size: 1.1rem;
+    }
+    .market__content,
+    .artist__content{
+        width: 22rem;
+        margin: auto;
+    }
+    
+}
+
+@media screen and (max-width:440px) {
+    .newsletter__socials{
+        margin-bottom: 2rem;
+    }
+    .footer__title{
+        margin-bottom: 1rem;
+    }
+    .footer__menu-item{
+        margin-bottom: 0.5rem;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .history__images:first-child{
+        display: none;
+    }
+    .history__caption{
+        margin-bottom: 2rem;
+    }
+}
+
+
+
+
+
